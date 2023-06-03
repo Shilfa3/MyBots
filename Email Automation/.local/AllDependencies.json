@@ -20947,9 +20947,9 @@
     "restore": {
       "projectUniqueName": "Email Automation",
       "projectName": "Email Automation",
-      "projectPath": "C:\\Users\\Admin\\Documents\\UiPath\\Email Automation\\.local",
+      "projectPath": "E:\\Github Folder\\MyBots\\Email Automation\\.local",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\UiPath\\Email Automation\\.local"
+      "outputPath": "E:\\Github Folder\\MyBots\\Email Automation\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

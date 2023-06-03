@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F18ohlunMEUSHxD/tdGeWtwYJH7YIhozoh8qXhInVMIroeXHegg18PTCDh4knMY3pp/8Pzq+Hs2GSUALAB7Q0A==",
+  "dgSpecHash": "hCB/wdmmNV0IhTpvSftKp0gIouk9eB0yUUP9xM9hNKafnneSKjUItj7yKxwnXaxKHRZ4YvR46fD3zzKlQ5KfiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\UiPath\\Email Automation\\.local\\",
+  "projectFilePath": "E:\\Github Folder\\MyBots\\Email Automation\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
